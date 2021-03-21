@@ -45,11 +45,6 @@ EOT
 From here you can then push to your favorite Git host (e.g. GitHub,
 Bitbucket, Gitlab)
 
-
-
-
-There are SPARC and sun3 versions of the compiler
-but I didn't archive those because I have no access
-to that hardware.
-
+See [COPYING] for details about how this project was
+licensed.
 
